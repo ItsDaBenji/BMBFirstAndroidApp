@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMBFirstAndroidApp</string>
+    <string name="activity_1_message">Hello Android</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_send">Send</string>
+    <string name="new_activity_button">Third Activity</string>
+    <string name="third_activity_text">"Road Work Ahead"? Uh, yeah, I sure hope it does</string>
+</resources>
